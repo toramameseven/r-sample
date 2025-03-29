@@ -5,6 +5,6 @@ changelog:
         - enhancement
     - title: Bug Fixes
       labels:
-        -bug
-        -fixes
+        - bug
+        - fixes
         
