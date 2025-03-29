@@ -1,0 +1,1 @@
+gh release create v0.1.0 --title "v0.1.0" --notes "good text"
